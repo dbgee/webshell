@@ -60,7 +60,7 @@
 > 6. [quasibot](https://github.com/Smaash/quasibot)
 > 7. [Webshell-Sniper](https://github.com/WangYihang/Webshell-Sniper)
 > 8. [蚁剑 antSword](https://github.com/AntSwordProject/antSword)
-> 9. [冰蝎 Behinder](https://github.com/rebeyond/Behinder)
+> 9. [新版冰蝎 Behinder](https://github.com/dbgee/bingxie)
 > 10. [webacoo](https://github.com/anestisb/WeBaCoo)
 > 11. [哥斯拉 Godzilla](https://github.com/BeichenDream/Godzilla)
 > 12. [PhpSploit](https://github.com/nil0x42/phpsploit)
