@@ -1,4 +1,4 @@
-# webshell | [English](https://github.com/tennc/webshell/blob/master/README_EN.md)
+# webshell | [English](./README_EN.md)
 
 这是一个webshell收集项目
 
